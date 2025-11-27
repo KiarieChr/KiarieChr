@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Kiariej
-- 👀 I’m interested in web frameworks such as php laravel and django. I have also a good knowledge of the php vanilla and flask mini framework 
-- 🌱 I’m currently developing some solutions in both php vanilla and django framework 
-- 💞️ I’m looking to collaborate on development of major transformations in the world.
-- 📫 How to reach me email @ jamesmbugua349@gmail.com 
+# Hi there 👋, I’m James Kiarie (@KiarieChr)
 
-<!---
-KiarieChr/KiarieChr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+I’m a passionate web developer with a focus on modern web frameworks. I have experience in:  
+- **PHP**: Vanilla PHP and Laravel  
+- **Python**: Django and Flask  
+
+### What I’m Doing
+Currently, I’m developing impactful solutions using both **PHP** and **Django** frameworks, building projects that aim to transform processes and improve user experiences.  
+
+### Collaboration
+I’m open to collaborating on **innovative projects** that drive meaningful change in the world.  
+
+### Contact Me
+📫 You can reach me via email: [jamesmbugua349@gmail.com](mailto:jamesmbugua349@gmail.com)  
+
+
