@@ -1,4 +1,4 @@
-# Hi there 👋, I’m James Kiarie (@KiarieChr)
+# Hi there 👋, I’m (@KiarieChr)
 
 ### About Me
 I’m a passionate web developer with a focus on modern web frameworks. I have experience in:  
